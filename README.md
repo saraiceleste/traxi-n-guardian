@@ -3,7 +3,11 @@
 **Agente autónomo que detecta clientes en riesgo de churn y prioriza acciones preventivas.**  
 *Eje 2: Detección temprana de clientes en riesgo*
 
-[![Prototipo web](https://drive.google.com/drive/folders/14JPK7pGCy1ckSJzjAlYwXUjbUE8oWPBQ?usp=sharing)](https://github.com/saraiceleste/traxi-n-guardian)
+
+# Prototipo web
+
+Click en el siguiente link para visualizar el prototipo web: https://drive.google.com/drive/folders/14JPK7pGCy1ckSJzjAlYwXUjbUE8oWPBQ?usp=sharing
+
 
 ## 🎯 Problema de negocio
 
@@ -34,11 +38,10 @@
 **Salida del Guardian:**
 
 
-## 👥 Equipo
-**Sara Celeste** 
-**Said** 
-**Rosa**
-
+## Equipo
+Sarai Celeste
+Said
+Rosa
 ---
 *Hackatón Bécalos Traxión Tech Challenge 2025 
 
