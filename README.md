@@ -39,9 +39,11 @@ Click en el siguiente link para visualizar el prototipo web: https://drive.googl
 
 
 ## Equipo
-Sarai Celeste
-Said
-Rosa
+
+- Sarai Celeste
+- Said
+- Rosa
+
 ---
 *Hackatón Bécalos Traxión Tech Challenge 2025 
 
