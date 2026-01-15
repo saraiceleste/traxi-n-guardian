@@ -3,7 +3,7 @@
 **Agente autónomo que detecta clientes en riesgo de churn y prioriza acciones preventivas.**  
 *Eje 2: Detección temprana de clientes en riesgo*
 
-[![Demo en vivo](demo-screenshot.png)](https://github.com/saraiceleste/traxi-n-guardian)
+[![Prototipo web](https://drive.google.com/drive/folders/14JPK7pGCy1ckSJzjAlYwXUjbUE8oWPBQ?usp=sharing)](https://github.com/saraiceleste/traxi-n-guardian)
 
 ## 🎯 Problema de negocio
 
