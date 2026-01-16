@@ -35,7 +35,7 @@ Click en el siguiente link para visualizar el prototipo web: https://drive.googl
 ## 💼 Demo: Medistik (Sector Salud)
 
 **Entrada:** NPS 75, Puntualidad 92%, **3 quejas**  
-**Salida del Guardian:**
+**Salida del Guardian: Riesgo crítico**
 
 
 ## Equipo
